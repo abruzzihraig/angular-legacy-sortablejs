@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/SortableJS/angular-legacy-sortablejs.git"
   },
+  "peerDependencies": {
+	"sortablejs": "^1.4.2"
+  },
   "keywords": [
     "angular",
     "sortable"
